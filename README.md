@@ -1,6 +1,3 @@
-# enhanced-rock-weathering
-Enhanced Rock Weathering Analysis using USGS Alaska Geochemical Database
-
 # Enhanced Rock Weathering Analysis
 
 A comprehensive geochemical modeling project for climate change mitigation through enhanced rock weathering, using real-world data from the USGS Alaska Geochemical Database.
