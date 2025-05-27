@@ -1,5 +1,19 @@
 # enhanced-rock-weathering
 Enhanced Rock Weathering Analysis using USGS Alaska Geochemical Database
+📁 Project Structure
+enhanced-rock-weathering/
+├── ERW1.py # Main analysis script
+├── Enhanced_Rock_Weathering_Analysis.png # Visualization output
+├── Enhanced_Rock_Weathering_Report.txt # Technical report
+├── README.md # Project documentation
+├── data/ # Data directory
+│ └── AGDB4_text/ # USGS database files
+│ ├── BV_WholeRock_Majors.txt
+│ ├── Mineralogy.txt
+│ └── Chem_A_Br.txt
+└── requirements.txt # Python dependencies
+
+
 # Enhanced Rock Weathering Analysis
 
 A comprehensive geochemical modeling project for climate change mitigation through enhanced rock weathering, using real-world data from the USGS Alaska Geochemical Database.
